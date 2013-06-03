@@ -4,6 +4,7 @@ idiomatic XMPP library for [node.js](http://nodejs.org/)
 
 Now usable in browsers too thanks to [Browserify](https://github.com/substack/node-browserify).
 
+[![build status](https://secure.travis-ci.org/astro/node-xmpp.png)](http://travis-ci.org/astro/node-xmpp)
 
 ## Roadmap for 0.4.0
 
@@ -76,6 +77,8 @@ Optional
 * [xmpp-server](https://github.com/superfeedr/xmpp-server/): Reusable XMPP server on top of node-xmpp
 * [node-xmpp-joap](https://github.com/flosse/node-xmpp-joap/): Jabber Object Access Protocol (XEP-0075) library for node-xmpp
 * [node-xmpp-serviceadmin](https://github.com/flosse/node-xmpp-serviceadmin/): Service Administration (XEP-0133) library for node-xmpp
+* [Junction](https://github.com/jaredhanson/junction): An extensible XMPP middleware layer
+* [xmpp-ftw](https://github.com/lloydwatkin/xmpp-ftw): XMPP For The Web ::: Powerful XMPP, simple JSON
 
 
 ## Design
